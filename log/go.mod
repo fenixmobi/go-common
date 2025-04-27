@@ -1,4 +1,4 @@
-module gitlab.ghfkj.cn/go-common/log
+module github.com/fenixmobi/go-common/log
 
 go 1.20
 

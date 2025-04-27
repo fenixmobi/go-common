@@ -1,4 +1,4 @@
-module gitlab.ghfkj.cn/go-common/crontab
+module github.com/fenixmobi/go-common/crontab
 
 go 1.20
 

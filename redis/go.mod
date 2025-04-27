@@ -1,4 +1,4 @@
-module gitlab.ghfkj.cn/go-common/redis
+module github.com/fenixmobi/go-common/redis
 
 go 1.20
 
